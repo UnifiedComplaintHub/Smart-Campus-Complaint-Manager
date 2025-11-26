@@ -1374,9 +1374,9 @@ Help others discover this project:
   - LinkedIn: [Sushant Singh Rathore](https://linkedin.com/in/sushant-singh-rathore)
 
 - Parth Ajmera
-  - Email: parth.ajmera.official@example.com
+  - Email: ajmeraparth.official@gmail.com
   - GitHub: [@Vortex-ParthAjmera](https://github.com/Vortex-ParthAjmera)
-  - LinkedIn: [Parth Ajmera](https://linkedin.com/in/ajmeraparthofficial)
+  - LinkedIn: [Parth Ajmera](https://www.linkedin.com/in/ajmeraparthofficial/)
 
 **Report Issues:** [GitHub Issues](https://github.com/yourusername/Smart-Campus-Complaint-Manager/issues)
 
