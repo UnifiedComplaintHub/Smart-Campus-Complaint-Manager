@@ -9,6 +9,24 @@ A comprehensive desktop application designed to revolutionize complaint handling
 
 ---
 
+---
+
+## 📞 Contact Information
+
+**Project Maintainers:**
+- Sushant Singh Rathore
+  - Email: sushant.singh.rathore@example.com
+  - GitHub: [@sushant-singh-rathore](https://github.com/sushant-singh-rathore)
+  - LinkedIn: [Sushant Singh Rathore](https://linkedin.com/in/sushant-singh-rathore)
+
+- Parth Ajmera
+  - Email: ajmeraparth.official@gmail.com
+  - GitHub: [@Vortex-ParthAjmera](https://github.com/Vortex-ParthAjmera)
+  - LinkedIn: [Parth Ajmera](https://www.linkedin.com/in/ajmeraparthofficial/)
+
+
+---
+
 ## 📋 Table of Contents
 
 - [Features](#-features)
@@ -1171,17 +1189,12 @@ def validate_name(name):
 ### **Sushant Singh Rathore**
 - **Role:** Lead Developer
 - **Expertise:** Python, GUI Development, Database Design, Software Architecture
-- **Contact:** sushant.singh.rathore@example.com
-- **LinkedIn:** linkedin.com/in/sushant-singh-rathore
-- **GitHub:** github.com/sushant-singh-rathore
+
 
 ### **Parth Ajmera**
 - **Role:** Co-Developer & Contributor
 - **Expertise:** AI/ML, Python, Web Development, Open Source
-- **GitHub:** [Vortex-ParthAjmera](https://github.com/Vortex-ParthAjmera)
-- **LeetCode:** [GF5NqJQsY2](https://leetcode.com/u/GF5NqJQsY2/)
-- **LinkedIn:** linkedin.com/in/ajmeraparthofficial
-- **Contact:** parth.ajmera.official@example.com
+
 
 ### **Notable Contributions by Parth Ajmera:**
 - AI-Driven Public Health WhatsApp and SMS Chatbot
@@ -1363,26 +1376,7 @@ Help others discover this project:
 - Contribute improvements
 - Provide feedback
 
----
 
-## 📞 Contact Information
-
-**Project Maintainers:**
-- Sushant Singh Rathore
-  - Email: sushant.singh.rathore@example.com
-  - GitHub: [@sushant-singh-rathore](https://github.com/sushant-singh-rathore)
-  - LinkedIn: [Sushant Singh Rathore](https://linkedin.com/in/sushant-singh-rathore)
-
-- Parth Ajmera
-  - Email: ajmeraparth.official@gmail.com
-  - GitHub: [@Vortex-ParthAjmera](https://github.com/Vortex-ParthAjmera)
-  - LinkedIn: [Parth Ajmera](https://www.linkedin.com/in/ajmeraparthofficial/)
-
-**Report Issues:** [GitHub Issues](https://github.com/yourusername/Smart-Campus-Complaint-Manager/issues)
-
-**Discussions:** [GitHub Discussions](https://github.com/yourusername/Smart-Campus-Complaint-Manager/discussions)
-
----
 
 ## 📝 Changelog
 
